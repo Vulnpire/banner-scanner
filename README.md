@@ -52,4 +52,14 @@ Example Output
 
 🔹 Output in JSON & CSV formats for automation
 
+### Axiom Support
+
+```
+» cat ~/.axiom/modules/banner-scanner.json
+[{
+        "command":"cat input | banner-scanner -top-ports | anew output",
+        "ext":"txt"
+}]
+```
+
 🚀 Stay stealthy & ethical!
